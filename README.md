@@ -1,2 +1,3 @@
 # Geostationärer
-Geostationärer: The Next Generation Remote Shell
+
+The Next Generation Remote Shell
